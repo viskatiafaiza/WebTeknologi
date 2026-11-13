@@ -3,7 +3,7 @@ import './global.css';
 import { inter } from '@/app/ui/fonts';
 
 export const metadata: Metadata = {
-  title: 'Web Teknologi - UIA',
+  title: 'Web Teknologi - ViskaTiaFaiza',
   description: 'Pembelajaran Web Teknologi',
 };
 
